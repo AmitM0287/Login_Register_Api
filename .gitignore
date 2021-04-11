@@ -1,0 +1,6 @@
+.idea/
+venv/
+migrations/
+__pycache__/
+exceptions.log
+settings.py
